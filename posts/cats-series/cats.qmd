@@ -1,0 +1,20 @@
+---
+title: "A series of cats"
+author: "Ali Zaidi"
+date: "2022-10-22"
+categories: [Art, Random, Fun]
+image: baseball.png
+---
+By Stable Diffusion
+
+
+
+
+
+# Yum
+![Patience](cookie.png)
+
+# Fun
+![Who said cats can't play tennis?](tennis.png)
+
+![\n We love using our paws\n](soccer.png)

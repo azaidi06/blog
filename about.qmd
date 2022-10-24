@@ -1,0 +1,19 @@
+---
+title: "Ali Zaidi"
+image: images/headshot.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Azaidi06
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ali-zaidi-a96621b9/
+    - icon: github
+      text: Github
+      href: https://github.com/azaidi06
+
+---
+
+Some other ways to find me

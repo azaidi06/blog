@@ -1,0 +1,6 @@
+/.quarto/
+_site/
+extensions/
+.DS_Store
+.ipynb_checkpoints/
+images/
