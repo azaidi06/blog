@@ -1,5 +1,5 @@
 ---
-title: "A Journey through the world of Machine Learning"
+#title: "This is where I'll write about random things of interest"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,7 +10,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-##  
+## This is where I'll post random things of interest
 
 #
 # 

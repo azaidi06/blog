@@ -1,6 +1,5 @@
 ---
-title: "A series of cats"
-author: "Ali Zaidi"
+title: "A series of Cats"
 date: "2022-10-22"
 categories: [Art, Random, Fun]
 image: baseball.png
@@ -12,7 +11,7 @@ By Stable Diffusion
 
 
 # Yum
-![Patience](cookie.png)
+![](cookie.png)
 
 # Fun
 ![Who said cats can't play tennis?](tennis.png)
