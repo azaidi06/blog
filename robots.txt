@@ -1,1 +1,1 @@
-Sitemap: https://azaidi06.github.io/blog/sitemap.xml
+Sitemap: azaidi.com/sitemap.xml
