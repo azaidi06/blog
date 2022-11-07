@@ -25,7 +25,7 @@
     "href": "posts/publish_nb/nb_tutorial.html#seeing-our-first-plot",
     "title": "Authoring delightful documents with Notebooks!",
     "section": "1.1 Seeing our first plot",
-    "text": "1.1 Seeing our first plot\n\n1.1.1 Random level in\nJust to show toc-depth field\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\nx = np.arange(10)\ny = np.random.randint(0, 10, 10)\nplt.plot(x,y)\nplt.title('A random plot!')\nplt.xlabel('our x axis :-p')\nplt.ylabel('our y values');\n\n\n\n\n\na simple plot!\n\n\n\n\n\n\nCode\nnp.array([x,y]).T.shape\n\n\n(10, 2)"
+    "text": "1.1 Seeing our first plot\n\n1.1.1 Random level in\nJust to show toc-depth field (table of content)\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\nx = np.arange(10)\ny = np.random.randint(0, 10, 10)\nplt.plot(x,y)\nplt.title('A random plot!')\nplt.xlabel('our x axis :-p')\nplt.ylabel('our y values');\n\n\n\n\n\na simple plot!\n\n\n\n\n\n\nCode\nnp.array([x,y]).T.shape\n\n\n(10, 2)"
   },
   {
     "objectID": "posts/publish_nb/nb_tutorial.html#dataframes-as-well",
