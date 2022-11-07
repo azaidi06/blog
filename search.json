@@ -7,32 +7,32 @@
     "text": "Sunrise\n\n\n\nJust hanging out\n\n\n\n<3"
   },
   {
-    "objectID": "posts/quarto_tutorial/blog_tutorial.html",
-    "href": "posts/quarto_tutorial/blog_tutorial.html",
-    "title": "Making a blog",
-    "section": "",
-    "text": "2 Where would you even begin to start a blog?\nIf you wanted to bypass doing any setup work - you could create profile on Medium (or something similar) and start posting there. While I’m sure it’s an excellent option, creating your own blog provides the opportunity to customize everything and be in control. At some point (a few years ago) I decided I should heed this advice, but I also convinced myself that I needed to create the website from scratch with Django. After about a day or two of (what felt like) banging my head, I came to my senses and gave up. \nLuckily, with Quarto things couldn’t be easier! This post is based on the work of other wonderful posts that I found on the Fast.AI forums (one) (two) – along with some perusing of the Quarto docs.\n\n\n3 How can you build one with Quarto?"
-  },
-  {
-    "objectID": "posts/publish_nb/nb_tutorial.html",
-    "href": "posts/publish_nb/nb_tutorial.html",
+    "objectID": "posts/nb_tutorial/nb_tutorial.html",
+    "href": "posts/nb_tutorial/nb_tutorial.html",
     "title": "Authoring delightful documents with Notebooks!",
     "section": "",
     "text": "Code\nTo use a jupyter notebook like this, include the following as raw a cell at the top of your notebook:<br>\ntitle: \"Authoring delightful documents with Notebooks!\"<br>\nauthor: \"Ali Zaidi\"<br>\ndate: \"2022-10-21\"<br>\ncategories: []<br>\ntoc: true<br>\ntoc-depth: 3<br>\ntoc-title: Contents<br>\nimage: \"notebook.png\"<br>\nnumber-sections: true<br>\nformat:<br>\n    html:<br>\n        code-fold: true<br>\n        code-tools: true<br>\nkeep-ipynb: true <br>\njupyter: python3<br>"
   },
   {
-    "objectID": "posts/publish_nb/nb_tutorial.html#seeing-our-first-plot",
-    "href": "posts/publish_nb/nb_tutorial.html#seeing-our-first-plot",
+    "objectID": "posts/nb_tutorial/nb_tutorial.html#seeing-our-first-plot",
+    "href": "posts/nb_tutorial/nb_tutorial.html#seeing-our-first-plot",
     "title": "Authoring delightful documents with Notebooks!",
     "section": "1.1 Seeing our first plot",
     "text": "1.1 Seeing our first plot\n\n1.1.1 Random level in\nJust to show toc-depth field (table of content)\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\nx = np.arange(10)\ny = np.random.randint(0, 10, 10)\nplt.plot(x,y)\nplt.title('A random plot!')\nplt.xlabel('our x axis :-p')\nplt.ylabel('our y values');\n\n\n\n\n\na simple plot!\n\n\n\n\n\n\nCode\nnp.array([x,y]).T.shape\n\n\n(10, 2)"
   },
   {
-    "objectID": "posts/publish_nb/nb_tutorial.html#dataframes-as-well",
-    "href": "posts/publish_nb/nb_tutorial.html#dataframes-as-well",
+    "objectID": "posts/nb_tutorial/nb_tutorial.html#dataframes-as-well",
+    "href": "posts/nb_tutorial/nb_tutorial.html#dataframes-as-well",
     "title": "Authoring delightful documents with Notebooks!",
     "section": "1.2 Dataframes as well!",
     "text": "1.2 Dataframes as well!\n\n\n\n\n\n\n  \n    \n      \n      y1\n      y2\n      y3\n    \n  \n  \n    \n      0\n      5.0\n      8.0\n      2.5\n    \n    \n      1\n      6.0\n      9.0\n      3.0\n    \n    \n      2\n      8.0\n      11.0\n      4.0\n    \n    \n      3\n      1.0\n      4.0\n      0.5\n    \n    \n      4\n      6.0\n      9.0\n      3.0\n    \n    \n      5\n      4.0\n      7.0\n      2.0\n    \n    \n      6\n      4.0\n      7.0\n      2.0\n    \n    \n      7\n      3.0\n      6.0\n      1.5\n    \n    \n      8\n      3.0\n      6.0\n      1.5\n    \n    \n      9\n      3.0\n      6.0\n      1.5"
+  },
+  {
+    "objectID": "posts/quarto_tutorial/blog_tutorial.html",
+    "href": "posts/quarto_tutorial/blog_tutorial.html",
+    "title": "Making a blog",
+    "section": "",
+    "text": "2 Where would you even begin to start a blog?\nIf you wanted to bypass doing any setup work - you could create profile on Medium (or something similar) and start posting there. While I’m sure it’s an excellent option, creating your own blog provides the opportunity to customize everything and be in control. At some point (a few years ago) I decided I should heed this advice, but I also convinced myself that I needed to create the website from scratch with Django. After about a day or two of (what felt like) banging my head, I came to my senses and gave up. \nLuckily, with Quarto things couldn’t be easier! This post is based on the work of other wonderful posts that I found on the Fast.AI forums (one) (two) – along with some perusing of the Quarto docs.\n\n\n3 How can you build one with Quarto?"
   },
   {
     "objectID": "posts/cats-series/cats.html",
