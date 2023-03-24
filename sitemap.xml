@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://azaidi06.github.io/blog/posts/koala-series/koala.html</loc>
-    <lastmod>2022-11-07T01:41:56.440Z</lastmod>
+    <lastmod>2023-03-24T20:36:30.738Z</lastmod>
   </url>
   <url>
     <loc>https://azaidi06.github.io/blog/posts/nb_tutorial/nb_tutorial.html</loc>
-    <lastmod>2022-11-07T01:41:56.853Z</lastmod>
+    <lastmod>2023-03-24T20:36:31.136Z</lastmod>
+  </url>
+  <url>
+    <loc>https://azaidi06.github.io/blog/posts/nn-activations/activations_nb.html</loc>
+    <lastmod>2023-03-24T20:36:31.866Z</lastmod>
   </url>
   <url>
     <loc>https://azaidi06.github.io/blog/posts/quarto_tutorial/blog_tutorial.html</loc>
-    <lastmod>2022-11-07T01:41:57.371Z</lastmod>
+    <lastmod>2023-03-24T20:36:32.169Z</lastmod>
   </url>
   <url>
     <loc>https://azaidi06.github.io/blog/posts/cats-series/cats.html</loc>
-    <lastmod>2022-11-07T01:41:57.583Z</lastmod>
+    <lastmod>2023-03-24T20:36:32.397Z</lastmod>
   </url>
   <url>
     <loc>https://azaidi06.github.io/blog/index.html</loc>
-    <lastmod>2022-11-07T01:41:57.960Z</lastmod>
+    <lastmod>2023-03-24T20:36:32.708Z</lastmod>
   </url>
   <url>
     <loc>https://azaidi06.github.io/blog/about.html</loc>
-    <lastmod>2022-11-07T01:41:58.192Z</lastmod>
+    <lastmod>2023-03-24T20:36:32.925Z</lastmod>
   </url>
 </urlset>

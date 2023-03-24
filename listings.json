@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/nn-activations/activations_nb.html",
       "/posts/koala-series/koala.html",
       "/posts/quarto_tutorial/blog_tutorial.html",
       "/posts/cats-series/cats.html",
